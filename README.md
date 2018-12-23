@@ -1,2 +1,5 @@
 # Ansible-Install-Wordpress
-Step 1: The Server(s) Setup
+
+# Step 1: The Server(s) Setup
+-we would want there to be a server set aside for running Ansible playbooks, we will call this our build-server. Here our Ansible playbooks would reside and then we would have target servers on which we would like to install WordPress
+
